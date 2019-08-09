@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="IGP Test Automation Suite" duration-ms="215805" started-at="2019-03-23T12:34:15Z" finished-at="2019-03-23T12:37:51Z">
+    <groups>
+    </groups>
+    <test name="AllScripts" duration-ms="215805" started-at="2019-03-23T12:34:15Z" finished-at="2019-03-23T12:37:51Z">
+      <class name="suite.runner.CustomSuiteRunner">
+        <test-method status="PASS" signature="suiteRunner()[pri:0, instance:suite.runner.CustomSuiteRunner@3327bd23]" name="suiteRunner" duration-ms="215776" started-at="2019-03-23T18:04:15Z" finished-at="2019-03-23T18:07:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteRunner -->
+      </class> <!-- suite.runner.CustomSuiteRunner -->
+    </test> <!-- AllScripts -->
+  </suite> <!-- IGP Test Automation Suite -->
+</testng-results>

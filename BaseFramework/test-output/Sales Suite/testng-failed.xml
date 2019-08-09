@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Sales Suite]">
+  <parameter name="Browser" value="Chrome"/>
+  <test name="Sales Suite-Tests(failed)">
+    <classes>
+      <class name="enh.web.tests.CRM_TC_090">
+        <methods>
+          <include name="test"/>
+        </methods>
+      </class> <!-- enh.web.tests.CRM_TC_090 -->
+    </classes>
+  </test> <!-- Sales Suite-Tests(failed) -->
+</suite> <!-- Failed suite [Sales Suite] -->

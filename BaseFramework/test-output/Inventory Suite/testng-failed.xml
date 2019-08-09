@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Inventory Suite]">
+  <parameter name="Browser" value="Chrome"/>
+  <test name="Inventory Suite-Tests(failed)">
+    <classes>
+      <class name="enh.web.tests.CRM_TC_091">
+        <methods>
+          <include name="test"/>
+        </methods>
+      </class> <!-- enh.web.tests.CRM_TC_091 -->
+    </classes>
+  </test> <!-- Inventory Suite-Tests(failed) -->
+</suite> <!-- Failed suite [Inventory Suite] -->

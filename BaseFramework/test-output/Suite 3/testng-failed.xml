@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite 3]">
+  <parameter name="Browser" value="FireFox"/>
+  <test name="Suite 3-Tests(failed)">
+    <classes>
+      <class name="enh.web.tests.CRM_TC_004">
+        <methods>
+          <include name="test"/>
+        </methods>
+      </class> <!-- enh.web.tests.CRM_TC_004 -->
+    </classes>
+  </test> <!-- Suite 3-Tests(failed) -->
+</suite> <!-- Failed suite [Suite 3] -->

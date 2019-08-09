@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [MiniRegression]">
+  <parameter name="Browser" value="Edge"/>
+  <test name="MiniRegression-Tests(failed)">
+    <classes>
+      <class name="enh.web.tests.CRM_TC_002">
+        <methods>
+          <include name="test"/>
+        </methods>
+      </class> <!-- enh.web.tests.CRM_TC_002 -->
+    </classes>
+  </test> <!-- MiniRegression-Tests(failed) -->
+</suite> <!-- Failed suite [MiniRegression] -->
